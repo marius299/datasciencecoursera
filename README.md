@@ -1,3 +1,2 @@
 # datasciencecoursera
-marius kaaché DAAGOUE
-## Ceci est un fichier de démarque
+## Ceci est un fichier de démarage
